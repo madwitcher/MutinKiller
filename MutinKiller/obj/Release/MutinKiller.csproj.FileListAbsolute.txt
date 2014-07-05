@@ -1,0 +1,4 @@
+D:\Mine\MutinKiller\MutinKiller\bin\MutinKiller.dll
+D:\Mine\MutinKiller\MutinKiller\bin\MutinKiller.pdb
+D:\Mine\MutinKiller\MutinKiller\obj\Release\MutinKiller.dll
+D:\Mine\MutinKiller\MutinKiller\obj\Release\MutinKiller.pdb

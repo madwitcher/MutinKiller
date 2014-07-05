@@ -1,0 +1,14 @@
+D:\Mine\MutinKiller\Executor\bin\Debug\Executor.exe.config
+D:\Mine\MutinKiller\Executor\bin\Debug\Executor.exe
+D:\Mine\MutinKiller\Executor\bin\Debug\Executor.pdb
+D:\Mine\MutinKiller\Executor\obj\x86\Debug\Executor.exe
+D:\Mine\MutinKiller\Executor\obj\x86\Debug\Executor.pdb
+D:\Programming\MutinKiller\Executor\bin\Debug\Executor.exe.config
+D:\Programming\MutinKiller\Executor\bin\Debug\Executor.exe
+D:\Programming\MutinKiller\Executor\bin\Debug\Executor.pdb
+D:\Programming\MutinKiller\Executor\bin\Debug\MySql.Data.dll
+D:\Programming\MutinKiller\Executor\obj\x86\Debug\Executor.csprojResolveAssemblyReference.cache
+D:\Programming\MutinKiller\Executor\obj\x86\Debug\Executor.exe
+D:\Programming\MutinKiller\Executor\obj\x86\Debug\Executor.pdb
+D:\Mine\MutinKiller\Executor\bin\Debug\MySql.Data.dll
+D:\Mine\MutinKiller\Executor\obj\x86\Debug\Executor.csprojResolveAssemblyReference.cache

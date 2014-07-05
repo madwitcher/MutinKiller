@@ -1,0 +1,5 @@
+D:\Mine\MutinKiller\Executor\bin\Release\Executor.exe.config
+D:\Mine\MutinKiller\Executor\bin\Release\Executor.exe
+D:\Mine\MutinKiller\Executor\bin\Release\Executor.pdb
+D:\Mine\MutinKiller\Executor\obj\x86\Release\Executor.exe
+D:\Mine\MutinKiller\Executor\obj\x86\Release\Executor.pdb
